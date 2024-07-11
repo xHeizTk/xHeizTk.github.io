@@ -99,7 +99,7 @@ img[src="home-header-2.avif"]{
 /* main */
 
 main{
-    background: linear-gradient(90deg, #FDB235, #F7C95F);
+    background: linear-gradient(0deg, #FDB235, #F7C95F);
     padding: 5%;
 }
 main > h2 {
